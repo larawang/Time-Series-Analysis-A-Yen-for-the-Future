@@ -7,4 +7,4 @@
 2. Based on the time series analysis, we decided not to buy Japanese yen now because the risk of yen expected to increase.
 
 
-*All analysis is on Starter Code folder
+* Please find all analysis in Starter Code folder
